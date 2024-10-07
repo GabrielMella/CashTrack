@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de software",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Ifood",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 200,
+      "createdAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "b10a",
+      "description": "Desenvolvimento de app",
+      "price": 1500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-04T20:54:24.701Z"
+    },
+    {
+      "description": "pastel",
+      "price": 12,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-10-05T01:54:37.708Z",
+      "id": 3
+    }
+  ]
+}
